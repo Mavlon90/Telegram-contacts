@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Telegram-contacts/static/css/main.bb6a7da2.chunk.css",
+    "main.js": "/Telegram-contacts/static/js/main.da38a0f0.chunk.js",
+    "main.js.map": "/Telegram-contacts/static/js/main.da38a0f0.chunk.js.map",
+    "runtime-main.js": "/Telegram-contacts/static/js/runtime-main.4332e4af.js",
+    "runtime-main.js.map": "/Telegram-contacts/static/js/runtime-main.4332e4af.js.map",
+    "static/js/2.9c10cef0.chunk.js": "/Telegram-contacts/static/js/2.9c10cef0.chunk.js",
+    "static/js/2.9c10cef0.chunk.js.map": "/Telegram-contacts/static/js/2.9c10cef0.chunk.js.map",
+    "index.html": "/Telegram-contacts/index.html",
+    "precache-manifest.5d7a07d587e8e88723119b8490f555ae.js": "/Telegram-contacts/precache-manifest.5d7a07d587e8e88723119b8490f555ae.js",
+    "service-worker.js": "/Telegram-contacts/service-worker.js",
+    "static/css/main.bb6a7da2.chunk.css.map": "/Telegram-contacts/static/css/main.bb6a7da2.chunk.css.map",
+    "static/js/2.9c10cef0.chunk.js.LICENSE": "/Telegram-contacts/static/js/2.9c10cef0.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4332e4af.js",
+    "static/js/2.9c10cef0.chunk.js",
+    "static/css/main.bb6a7da2.chunk.css",
+    "static/js/main.da38a0f0.chunk.js"
+  ]
+}
